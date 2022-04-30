@@ -1,4 +1,7 @@
 # luhn
+
+[![DOGE Donate](https://img.shields.io/badge/DOGE-For%20Coffee-green)](https://dogechain.info/address/DSr9btWDuDcdSg4yXkSMYjbRMLEUqp4ijt)
+
 A go module that checks Luhn numbers
 
 ## Usage
@@ -34,5 +37,3 @@ The output will be:
 true
 false
 ```
-### For Coffee
-[![DOGE Donate](https://img.shields.io/badge/DOGE-For%20Coffee-green)](https://dogechain.info/address/DSr9btWDuDcdSg4yXkSMYjbRMLEUqp4ijt)`DSr9btWDuDcdSg4yXkSMYjbRMLEUqp4ijt`
