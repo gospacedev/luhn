@@ -4,7 +4,7 @@
 Luhn Formula is a go module that uses the luhn aglorithm also known as Modulus 10 Algorithm to verify if a number is a luhn number
 
 ## Usage
-
+To get:
 ```
 go get github.com/gocrazygh/luhn-formula
 ```
