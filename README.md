@@ -1,4 +1,4 @@
-# luhn
+# luhn-formula
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
 
 Luhn is a go module that uses the luhn aglorithm also known as Modulus 10 Algorithm to verify if a number is a luhn number
@@ -6,7 +6,7 @@ Luhn is a go module that uses the luhn aglorithm also known as Modulus 10 Algori
 ## Usage
 
 ```
-go get github.com/gocrazygh/luhn
+go get github.com/gocrazygh/luhn-formula
 ```
 
 If you are working outside GOPATH:
@@ -20,7 +20,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gocrazygh/luhn"
+	"github.com/gocrazygh/luhn-formula"
 )
 
 func main() {
