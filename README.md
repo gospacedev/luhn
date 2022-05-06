@@ -9,7 +9,7 @@ To get:
 go get github.com/gocrazygh/luhn-formula
 ```
 
-You can simply use it as:
+You can use it as:
 ```go
 package main
 
