@@ -9,11 +9,6 @@ To get:
 go get github.com/gocrazygh/luhn-formula
 ```
 
-If you are working outside GOPATH:
-```
-go mod init <module-name>
-```
-
 You can simply use it as:
 ```go
 package main
