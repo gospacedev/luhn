@@ -6,7 +6,7 @@ Luhn Formula is a go module that uses the luhn aglorithm also known as Modulus 1
 ## Usage
 To get:
 ```
-go get github.com/gocrazygt/luhn-formula
+go get github.com/gospacedev/luhn-formula
 ```
 
 You can use it as:
@@ -15,7 +15,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gocrazygt/luhn-formula"
+	"github.com/gospacedev/luhn-formula"
 )
 
 func main() {
